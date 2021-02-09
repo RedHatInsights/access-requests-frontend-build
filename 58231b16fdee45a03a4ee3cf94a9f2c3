@@ -10,7 +10,7 @@ node {
                       passphraseVariable: "",
                       usernameVariable: "")]) {
 
-      String APP_NAME = "access_requests"
+      String APP_NAME = "access-requests"
       String BRANCH = env.BRANCH_NAME.replaceAll("origin/", "")
 
       if (BRANCH == "prod-stable") {
