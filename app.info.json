@@ -1,12 +1,12 @@
 {
   "app_name": "access-requests",
-  "src_hash": "23d207425fd91ce115f217bfd1c30b7d226c4c1f",
+  "src_hash": "ecd5f793077857b0d8764fda6a7c9b681aa18c08",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.106.2","@patternfly/react-table@4.24.1"],
   "travis": {
     "event_type": "push",
-    "build_number": "37",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/access-requests-frontend/builds/222979368"
+    "build_number": "38",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/access-requests-frontend/builds/222981181"
   }
 }
