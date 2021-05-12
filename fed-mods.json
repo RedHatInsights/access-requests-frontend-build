@@ -1,11 +1,10 @@
 {
     "accessRequests": {
         "entry": [
-            "/beta/apps/access-requests/accessRequests.js"
+            "/beta/apps/access-requests/accessRequests.8d5bb152e3788cff56b5.js"
         ],
         "modules": [
-            "/beta/apps/access-requests/293.5d8fb90f521f015ff229.js",
-            "/beta/apps/access-requests/293.8c4e5ce02513da19e628.css"
+            "/beta/apps/access-requests/js/412.db95613ab97d2f4c2750.js"
         ]
     }
 }
