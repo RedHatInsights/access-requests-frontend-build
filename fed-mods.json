@@ -1,11 +1,11 @@
 {
-    "accessRequests": {
-        "entry": [
-            "/beta/apps/access-requests/accessRequests.1683788318509.678f9a6bda3f3f70af43.js"
-        ],
-        "modules": [
-            "/beta/apps/access-requests/js/346.1683788318539.678f9a6bda3f3f70af43.js",
-            "/beta/apps/access-requests/css/346.a8e8a0434394fbd955c0.css"
-        ]
-    }
+  "name": "accessRequests",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/beta/apps/access-requests/",
+  "loadScripts": [
+    "accessRequests.643d7e1f7beb243d6baf.js"
+  ],
+  "buildHash": "643d7e1f7beb243d6baf60aee27c8bc5"
 }
