@@ -1,1 +1,1 @@
-{"name":"accessRequests","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/beta/apps/access-requests/","loadScripts":["accessRequests.3bb9705756a1fd734033.js"],"buildHash":"6e6cb974c8d9a11ec5e9ff136bab38d8"}
+{"name":"accessRequests","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/apps/access-requests/","loadScripts":["accessRequests.e8ca64b688665a98bfc6.js"],"buildHash":"ba858a6c0aacaa2d6a9754ff8fe31646"}
