@@ -1,14 +1,14 @@
 {
   "app_name": "access-requests",
   "node_version": "unknown",
-  "src_hash": "c3d5dfc2f243121feea173f96cd71ddc2ae91991",
+  "src_hash": "3a1f076e389bc232811e5df00d8440cd886b027d",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-component-groups@5.0.0","@patternfly/react-core@5.1.2","@patternfly/react-table@5.1.2"],
   "rh_cloud_services_dependencies": ["hat-cloud-services/access-requests-frontend@1.2.11 /home/travis/build/RedHatInsights/access-requests-frontend","@redhat-cloud-services/frontend-components-notifications@4.1.0","@redhat-cloud-services/frontend-components@4.2.3"],
   "travis": {
     "event_type": "push",
-    "build_number": "476",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/access-requests-frontend/builds/273716311"
+    "build_number": "479",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/access-requests-frontend/builds/273744070"
   }
 }
